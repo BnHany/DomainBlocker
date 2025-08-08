@@ -82,6 +82,7 @@ cat blocked_rules.db
 
 ---
 [**📖 Read Full Guide on Medium →**](https://bnhany.medium.com/domain-blocker-tool-v1-3-e056bf3a1d88)  
+[**📖 Check the detailed breakdown of the code →**](https://deepwiki.com/BnHany/DomainBlocker)
 ---
 
 ## Author
