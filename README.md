@@ -50,11 +50,11 @@ sudo apt install -y iptables ip6tables dnsutils cron
 ```bash
 git clone https://github.com/BnHany/DomainBlocker.git
 cd DomainBlocker
-chmod +x domain_blocker
+chmod +x DomainBlocker.sh
 ```
 - Run the tool (requires root):
 ```bash
-sudo ./domain_blocker
+sudo ./DomainBlocker.sh
 ```
 > Make sure your system supports cron (used for scheduled updates).
 > 
