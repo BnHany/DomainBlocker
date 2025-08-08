@@ -1,4 +1,4 @@
-#!/bin/bash
+s#!/bin/bash
 
 DB_FILE="blocked_rules.db"
 
@@ -251,7 +251,7 @@ case "$choice" in
     3)
         clear
         echo "======================================================================================================="
-        echo "Read the WriteUp : "
+        echo "Read the WriteUp : https://bnhany.medium.com/domain-blocker-tool-v1-3-e056bf3a1d88"
         echo "======================================================================================================="
         echo "-- By BnHany"
         ;;
