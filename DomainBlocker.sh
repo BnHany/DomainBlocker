@@ -1,4 +1,4 @@
-s#!/bin/bash
+#!/bin/bash
 
 DB_FILE="blocked_rules.db"
 
